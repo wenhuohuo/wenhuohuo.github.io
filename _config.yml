@@ -11,8 +11,8 @@ github_repo: "https://github.com/wenhuohuo/wenhuohuo.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "emmmmm,我好菜啊.."
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "额。"
+sidebar-avatar: /img/whh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: 
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: ''            # Format: UA-xxxxxx-xx
 ga_domain:                # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -100,10 +100,10 @@ service-worker: true
 friends: [
     {
         title: "知乎",
-        href: "http:www.//zhihu.com"
+        href: "http://www.zhihu.com"
     },{
         title: "百度",
-        href: "https:www.//baidu.com"
+        href: "https://www.baidu.com"
     },{
         title: "csdn",
         href: "https://www.csdn.net/"
