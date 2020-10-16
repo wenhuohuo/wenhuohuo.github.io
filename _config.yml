@@ -99,13 +99,12 @@ service-worker: true
 # Friends
 friends: [
     {
-     title: "知乎",
+        title: "知乎",
         href: "http:www.//zhihu.com"
-    },
-    {
+    },{
         title: "百度",
         href: "https:www.//baidu.com"
-    },
+    },{
         title: "csdn",
         href: "https://www.csdn.net/"
     },{
